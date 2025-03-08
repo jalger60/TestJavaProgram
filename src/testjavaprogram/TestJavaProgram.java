@@ -1,10 +1,7 @@
 
 package testjavaprogram;
 
-/**
- *
- * @author jalge
- */
+
 public class TestJavaProgram {
 
     /**
